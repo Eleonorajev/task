@@ -1,0 +1,315 @@
+                                @import url('https://fonts.googleapis.com/css2?family=Hahmlet&family=Quicksand&display=swap');
+.background{
+    width: 1330px;
+    height: 5000px;
+    background-color: rgb(199, 199, 199);
+}
+.text1{
+    font-size: xxx-large;
+    text-align: center;
+    font-family: 'Hahmlet', serif;
+    font-family: 'Quicksand', sans-serif;
+}
+.text2 {
+    font-size: xx-large;
+    text-align: center;
+    font-family: 'Hahmlet', serif;
+    font-family: 'Quicksand', sans-serif;
+}
+.about{
+    font-size: large;
+    line-height: 1.5;
+    font-family: 'Hahmlet', serif;
+    font-family: 'Quicksand', sans-serif;
+}
+.foto1{
+    width: 300px;
+    height: 300px;
+    background-image: url(1foto.jpg);
+    background-size: 200px 300px;
+    background-repeat: no-repeat;
+    background-position: 100px;
+    float: left;
+    margin-top: 25px;
+    display: inline-block
+}
+.foto2{
+    width: 300px;
+    height: 300px;
+    background-image: url(23foto.jpg);
+    background-size: 200px 300px;
+    background-repeat: no-repeat;
+    background-position: 100px;
+    float: left;
+    margin-top: 25px;
+    display: inline-block
+}
+.foto3{
+    width: 300px;
+    height: 300px;
+    background-image: url(2foto.jpg);
+    background-size: 200px 300px;
+    background-repeat: no-repeat;
+    background-position: 100px;
+    float: left;
+    margin-top: 25px;
+    display: inline-block
+}
+.foto4{
+    width: 300px;
+    height: 300px;
+    background-image: url(3foto.jpg);
+    background-size: 200px 300px;
+    background-repeat: no-repeat;
+    background-position: 100px;
+    margin-top: 25px;
+    float: left;
+    display: inline-block
+}
+.text3{
+    font-size: x-large;
+    font-weight: bold;
+    line-height: 1.5;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 350px;
+    font-family: 'Hahmlet', serif;
+    font-family: 'Quicksand', sans-serif;
+}
+.text4{
+    text-indent: -40px;
+    padding-left: 40px;
+    font-size: large;
+    font-weight: bold;
+    line-height: 1.5;
+    font-family: 'Hahmlet', serif;
+    font-family: 'Quicksand', sans-serif;
+}
+.foto5{
+    width: 600px;
+    height: 300px;
+    background-image: url(5foto.jpg);
+    background-size: 600px 300px;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.text5{
+    display: block;
+    font-size: x-large;
+    font-weight: bold;
+    line-height: 1.5;
+    text-align: center;
+    font-family: 'Hahmlet', serif;
+    font-family: 'Quicksand', sans-serif;
+}
+.text6{
+    text-indent: -40px;
+    padding-left: 40px;
+    font-size: large;
+    font-weight: bold;
+    line-height: 1.5;
+    font-family: 'Hahmlet', serif;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.foto6{
+    width: 600px;
+    height: 300px;
+    background-image: url(6.jpg);
+    line-height: 1.5;
+    background-size: 600px 300px;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.text7{
+    display: block;
+    font-size: x-large;
+    font-weight: bold;
+    line-height: 1.5;
+    text-align: center;
+    font-family: 'Hahmlet', serif;
+    font-family: 'Quicksand', sans-serif;
+}
+.text8{
+    text-indent: -40px;
+    padding-left: 40px;
+    font-size: large;
+    font-weight: bold;
+    line-height: 1.5;
+    font-family: 'Hahmlet', serif;
+    font-family: 'Quicksand', sans-serif;
+}
+.foto7{
+    width: 600px;
+    height: 400px;
+    background-image: url(7.jpg);
+    line-height: 1.5;
+    background-size: 600px 400px;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.text9{
+    display: block;
+    font-size: x-large;
+    font-weight: bold;
+    line-height: 1.5;
+    text-align: center;
+    font-family: 'Hahmlet', serif;
+    font-family: 'Quicksand', sans-serif;
+}
+.text10{
+    text-indent: -40px;
+    padding-left: 40px;
+    font-size: large;
+    font-weight: bold;
+    line-height: 1.5;
+    font-family: 'Hahmlet', serif;
+    font-family: 'Quicksand', sans-serif;
+}
+.foto8{
+    width: 600px;
+    height: 300px;
+    background-image: url(8888.png);
+    line-height: 1.5;
+    background-size: 600px 300px;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.text11{
+    display: block;
+    font-size: x-large;
+    font-weight: bold;
+    line-height: 1.5;
+    text-align: center;
+    font-family: 'Hahmlet', serif;
+    font-family: 'Quicksand', sans-serif;
+}
+.text12{
+    text-indent: -40px;
+    padding-left: 40px;
+    font-size: large;
+    font-weight: bold;
+    line-height: 1.5;
+    font-family: 'Hahmlet', serif;
+    font-family: 'Quicksand', sans-serif;
+}
+.foto9{
+    width: 600px;
+    height: 300px;
+    background-image: url(9.jpg);
+    line-height: 1.5;
+    background-size: 600px 300px;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.text13{
+    display: block;
+    font-size: x-large;
+    font-weight: bold;
+    line-height: 1.5;
+    text-align: center;
+    font-family: 'Hahmlet', serif;
+    font-family: 'Quicksand', sans-serif;
+}
+.text14{
+    text-indent: -40px;
+    padding-left: 40px;
+    font-size: large;
+    font-weight: bold;
+    line-height: 1.5;
+    font-family: 'Hahmlet', serif;
+    font-family: 'Quicksand', sans-serif;
+}
+.foto10{
+    width: 600px;
+    height: 300px;
+    background-image: url(10.jpg);
+    line-height: 1.5;
+    background-size: 600px 300px;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.background{
+    width: 1330px;
+    height: 4000px;
+    background-color: rgb(199, 199, 199);
+}
+.text15{
+    display: block;
+    font-size: x-large;
+    font-weight: bold;
+    line-height: 1.5;
+    text-align: center;
+    font-family: 'Hahmlet', serif;
+    font-family: 'Quicksand', sans-serif;
+}
+.text16{
+    text-indent: -40px;
+    padding-left: 40px;
+    font-size: large;
+    font-weight: bold;
+    line-height: 1.5;
+    font-family: 'Hahmlet', serif;
+    font-family: 'Quicksand', sans-serif;
+}
+.foto11{
+    width: 600px;
+    height: 300px;
+    background-image: url(11.jpg);
+    line-height: 1.5;
+    background-size: 600px 300px;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.text17{
+    display: block;
+    font-size: x-large;
+    font-weight: bold;
+    line-height: 1.5;
+    text-align: center;
+    font-family: 'Hahmlet', serif;
+    font-family: 'Quicksand', sans-serif;
+}
+.text18{
+    text-indent: -40px;
+    padding-left: 40px;
+    font-size: large;
+    font-weight: bold;
+    line-height: 1.5;
+    font-family: 'Hahmlet', serif;
+    font-family: 'Quicksand', sans-serif;
+}
+.foto12{
+    width: 600px;
+    height: 300px;
+    background-image: url(12.jpg);
+    line-height: 1.5;
+    background-size: 600px 300px
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
